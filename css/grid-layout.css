@@ -70,7 +70,7 @@ body {
 body::after {
     content: "";
     position: absolute;
-    background-image: url(bckimg.jpg);
+    background-image: url(loonaimage.jpeg);
     background-position: center;
     z-index: -1;
     inset: 0;
